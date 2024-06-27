@@ -11,37 +11,37 @@
     {
       "techniqueID": "T1110",
       "showSubtechniques": false,
-      "color": "#800080"  
+      "color": "#0000ff"
     },
     {
       "techniqueID": "T1539",
       "showSubtechniques": false,
-      "color": "#800080" 
+      "color": "#0000ff"
     },
     {
       "techniqueID": "T1036",
       "showSubtechniques": true,
-      "color": "#800080"  
+      "color": "#0000ff"
     },
     {
       "techniqueID": "T1036.001",
       "showSubtechniques": false,
-      "color": "#0000ff" 
+      "color": "#6df7e5"
     }
   ],
   "gradient": {
-    "colors": ["#ffffff", "#800080"],
+    "colors": ["#ffffff", "#0000ff"],
     "minValue": 0,
     "maxValue": 1
   },
   "legendItems": [
     {
-      "label": "Main techniques (Violet)",
-      "color": "#800080"
+      "label": "Main techniques (Blue)",
+      "color": "#0000ff"
     },
     {
-      "label": "Sub-techniques (Blue)",
-      "color": "#0000ff"
+      "label": "Sub-techniques (#6df7e5)",
+      "color": "#6df7e5"
     }
   ],
   "layout": {
