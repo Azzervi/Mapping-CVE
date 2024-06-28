@@ -1,0 +1,50 @@
+{
+  "description": "Enterprise techniques used by CVE-2024-1111",
+  "name": "CVE-2024-1111",
+  "domain": "enterprise-attack",
+  "versions": {
+    "layer": "4.4",
+    "attack": "15",
+    "navigator": "5.1"
+  },
+  "techniques": [
+    {
+      "techniqueID": "T1110",
+      "showSubtechniques": true,
+      "color": "#0000ff"
+    },
+    {
+      "techniqueID": "T1539",
+      "showSubtechniques": true,
+      "color": "#0000ff"
+    },
+    {
+      "techniqueID": "T1036",
+      "showSubtechniques": true,
+      "color": "#0000ff"
+    },
+    {
+      "techniqueID": "T1036.001",
+      "showSubtechniques": true,
+      "color": "#6df7e5"
+    }
+  ],
+  "gradient": {
+    "colors": ["#ffffff", "#0000ff"],
+    "minValue": 0,
+    "maxValue": 1
+  },
+  "legendItems": [
+    {
+      "label": "Main techniques (Blue)",
+      "color": "#0000ff"
+    },
+    {
+      "label": "Sub-techniques (#6df7e5)",
+      "color": "#6df7e5"
+    }
+  ],
+  "layout": {
+    "background": "#ffffff"
+  }
+}
